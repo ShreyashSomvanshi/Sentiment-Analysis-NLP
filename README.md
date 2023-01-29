@@ -1,3 +1,5 @@
 # Sentiment-Analysis-NLP
 
-:globe_with_meridians: https://nlp-sentiment-analyzer.herokuapp.com/
+Check it out at:
+<br/>
+:globe_with_meridians: https://shreyashsomvanshi-sentiment-analysis-nlp-sa2-v0x309.streamlit.app/
